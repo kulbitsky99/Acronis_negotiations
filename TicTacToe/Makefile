@@ -1,4 +1,4 @@
-all: run
+
 run:
 	g++ tictactoe.cpp -Wall -o run
 clean:
